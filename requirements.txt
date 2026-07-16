@@ -38,3 +38,9 @@ orjson>=3.9.0
 
 # Typing
 pydantic>=2.5.0
+
+# PDF Generation
+reportlab>=4.0.0
+
+# Streamlit
+streamlit>=1.40.0
